@@ -20,3 +20,4 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
 | 242 | Valid Anagram  | Easy  | https://leetcode.com/problems/valid-anagram/ |
+| 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
