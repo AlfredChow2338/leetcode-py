@@ -16,7 +16,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ## Completed Questions (As of now: 2)
 
 ### Array and Hashing
-| Number  | Question  | URL  | Difficulty  |
-|:------------:|:---------------:|:---------------:|:------------:|
-| 217 | Contains Duplicate    | https://leetcode.com/problems/contains-duplicate/ | Easy  |
-| 242 | Valid Anagram  | https://leetcode.com/problems/valid-anagram/ | Easy  |
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
+| 242 | Valid Anagram  | Easy  | https://leetcode.com/problems/valid-anagram/ |
