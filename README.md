@@ -1,4 +1,4 @@
-# LeetCode Daily Practice
+# LeetCode Practice (Python)
 This repository is dedicated to my daily practice of solving LeetCode problems using Python. LeetCode is a popular platform for practicing coding interview questions, and this project aims to improve my problem-solving skills and keep me consistent in my coding practice. The project contains the Python scripts for each LeetCode problem I've solved.
 
 ## Goals
