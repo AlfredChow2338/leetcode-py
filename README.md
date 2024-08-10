@@ -13,7 +13,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (As of now: 2)
+## Completed Questions (As of now: 3)
 
 ### Array and Hashing
 | No.  | Question  | Level  | Url  |
