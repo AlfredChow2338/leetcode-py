@@ -5,7 +5,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 Starting from 11th August 2024, I am commited to complete at least 3 questions every week. The topics of the questions include array, hashing, two pointers, stack, binary search, linked list, sliding window, trees, heap, queue, priority queue, graphs, dynamic programming and etc. 
 
 ### Check Points
-- [ ] Complete 3 questions before 2024-08-18 (1-week)
+- [x] Complete 3 questions before 2024-08-18 (1-week)
 - [ ] Complete 12 questions before 2024-09-07 (1-month)
 - [ ] Complete 39 questions before 2024-11-10 (3-month)
 - [ ] Complete 60 questions before 2024-12-29 (2024 year-end)
