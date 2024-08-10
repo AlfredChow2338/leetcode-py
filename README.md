@@ -13,9 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions
+## Completed Questions (As of now: 2)
 
 ### Array and Hashing
-| Number  | Question  | URL  |
-| :------------ |:---------------:|:---------------:| 
-| 217 | Contains Duplicate    | https://leetcode.com/problems/contains-duplicate/ | 
+| Number  | Question  | URL  | Difficulty  |
+|:------------:|:---------------:|:---------------:|:------------:|
+| 217 | Contains Duplicate    | https://leetcode.com/problems/contains-duplicate/ | Easy  |
+| 242 | Valid Anagram  | https://leetcode.com/problems/valid-anagram/ | Easy  |
