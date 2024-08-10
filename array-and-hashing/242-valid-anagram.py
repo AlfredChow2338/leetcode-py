@@ -20,7 +20,23 @@ class Solution:
             if dict[k] != 0:
                 return False
         return True
-
+    
+# Counter
+# Runtime: 51 ms, faster than 47.41% of Python3 online submissions for Valid Anagram.
+# Memory Usage: 17 MB, less than 44.60% of Python3 online submissions for Valid Anagram.
+class Solution:
+  def isAnagram(self, s: str, t: str) -> bool:
+      return Counter(s) == Counter(t)
+  
+# Sort
+# Runtime: 63 ms, faster than 6.74% of Python3 online submissions for Valid Anagram.
+# Memory Usage: 17.2 MB, less than 25.57% of Python3 online submissions for Valid Anagram.
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+        return sorted(s) == sorted(t)
+    
 # Dictionary II
 # Runtime: 53 ms, faster than 36.14% of Python3 online submissions for Valid Anagram.
 # Memory Usage: 16.9 MB, less than 84.16% of Python3 online submissions for Valid Anagram.
@@ -37,10 +53,3 @@ class Solution:
             if dict[k] != 0:
                 return False
         return True
-    
-# Counter
-# Runtime: 51 ms, faster than 47.41% of Python3 online submissions for Valid Anagram.
-# Memory Usage: 17 MB, less than 44.60% of Python3 online submissions for Valid Anagram.
-class Solution:
-  def isAnagram(self, s: str, t: str) -> bool:
-      return Counter(s) == Counter(t)
