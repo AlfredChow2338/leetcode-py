@@ -13,7 +13,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (As of now: 6)
+## Completed Questions (As of now: 7)
 
 ### Array and Hashing
 | No.  | Question  | Level  | Url  |
@@ -24,3 +24,4 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 49 | Group Anagrams  | Medium  | https://leetcode.com/problems/group-anagrams/ |
 | 347 | Top K Frequent Elements  | Medium  | https://leetcode.com/problems/top-k-frequent-elements/ |
 | 238 | Product of Array Except Self  | Medium  | https://leetcode.com/problems/product-of-array-except-self/ |
+| 36 | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
