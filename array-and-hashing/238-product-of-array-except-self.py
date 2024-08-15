@@ -1,6 +1,6 @@
 from typing import List
 
-# Loop by condition
+# Loop by condition (Not allowed)
 # Runtime: 262 ms, faster than 77.98% of Python3 online submissions for Product of Array Except Self.
 # Memory Usage: 25.7 MB, less than 47.43% of Python3 online submissions for Product of Array Except Self.
 class Solution:
@@ -34,7 +34,7 @@ class Solution:
         
         return res
     
-# Without using divider
+# Prefix Sum
 # Runtime: 269 ms, faster than 56.10% of Python3 online submissions for Product of Array Except Self.
 # Memory Usage: 25.7 MB, less than 47.43% of Python3 online submissions for Product of Array Except Self.
 class Solution:
