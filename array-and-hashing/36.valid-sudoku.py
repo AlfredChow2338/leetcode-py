@@ -1,4 +1,5 @@
 import collections
+from typing import List
 
 # Hash Map
 # Runtime: 96 ms, faster than 34.03% of Python3 online submissions for Valid Sudoku.
