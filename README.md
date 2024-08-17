@@ -26,6 +26,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 238 | Product of Array Except Self  | Medium  | https://leetcode.com/problems/product-of-array-except-self/ |
 | 36 | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
+| 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659 |
 
 ### Prefix Sum (Completed: 4)
 | No.  | Question  | Level  | Url  |
