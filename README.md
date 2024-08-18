@@ -52,6 +52,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:---:|:--------------|:---------------|:------:|:------------|
 | 3258 | 411 (18th August 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/ |
+| 3259 | 411 (18th August 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/ |
 
 ### LeetCode Biweekly (Completed: 1)
 | No. | Week (Date)  | Question  | Level  | Url  |
