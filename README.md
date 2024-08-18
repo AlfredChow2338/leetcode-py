@@ -16,7 +16,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ## Completed Questions (Total: 16)
 | Difficulty  | Solved |
 |:------------:|:---------------:|
-| Easy  | 5  | 
+| Easy  | 6  | 
 | Medium  | 11  |
 | Hard  | 0  |
 
@@ -48,7 +48,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 167 |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
 
+### LeetCode Weekly (Completed: 1)
+| No. | Week (Date)  | Question  | Level  | Url  |
+|:---:|:--------------|:---------------|:------:|:------------|
+| 3258 | 411 (18th August 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/ |
+
 ### LeetCode Biweekly (Completed: 1)
-| No. | Date  | Question  | Level  | Url  |
+| No. | Week (Date)  | Question  | Level  | Url  |
 |:---:|:--------------|:---------------|:------:|:------------|
 | 3254 | 137 (17th August 2024) | Find the Power of K-Size Subarrays I  | Medium  | https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-i/ |
