@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 19)
+## Completed Questions (Total: 20)
 | Difficulty  | Solved |
 |:------------:|:---------------:|
 | Easy  | 6  | 
-| Medium  | 13  |
+| Medium  | 14  |
 | Hard  | 0  |
 
 ### Array and Hashing (Completed: 9)
@@ -41,12 +41,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 525 | Contiguous Array  | Medium  | https://leetcode.com/problems/contiguous-array/ |
 | 560 | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
 
-### Two Pointers (Completed: 3)
+### Two Pointers (Completed: 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 125 |  Valid Palindrome  | Easy  | https://leetcode.com/problems/valid-palindrome/ |
 | 167 |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
+| 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
