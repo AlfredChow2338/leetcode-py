@@ -1,6 +1,6 @@
 from typing import List
 
-# Two Pointers
+# Prefix Sum
 # Runtime: 638 ms, faster than 79.75% of Python3 online submissions for 3Sum.
 # Memory Usage: 20.7 MB, less than 31.50% of Python3 online submissions for 3Sum.
 class Solution:
