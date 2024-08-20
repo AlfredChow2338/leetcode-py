@@ -15,7 +15,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 
 ## Completed Questions (Total: 21)
 | Difficulty  | Solved |
-|:------------:|:---------------:|
+|:------------|:---------------:|
 | Easy  | 6  | 
 | Medium  | 14  |
 | Hard  | 1  |
