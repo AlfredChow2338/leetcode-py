@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 21)
+## Completed Questions (Total: 22)
 | Difficulty  | Solved |
-|:------------:|:---------------:|
-| Easy  | 6  | 
+|:------------|:---------------:|
+| Easy  | 7  | 
 | Medium  | 14  |
 | Hard  | 1  |
 
@@ -49,6 +49,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
 | 42 |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
+
+### Stack (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 20 |  Valid Parentheses | Easy  | https://leetcode.com/problems/valid-parentheses/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
