@@ -27,6 +27,24 @@ class Solution:
                 
         return res
                 
-
+# Two Pointers
+# Runtime: 105 ms, faster than 58.31% of Python3 online submissions for Trapping Rain Water.
+# Memory Usage: 18.4 MB, less than 81.21% of Python3 online submissions for Trapping Rain Water.
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        res, l, r = 0, 0, len(height) - 1, 
+        maxL, maxR = height[l], height[r]
+        
+        while l < r:
+            if maxL <= maxR:
+                l += 1
+                maxL = max(maxL, height[l])
+                res += maxL - height[l]
+            else:
+                r -= 1
+                maxR = max(maxR, height[r])
+                res += maxR - height[r]
+                
+        return res
             
             
