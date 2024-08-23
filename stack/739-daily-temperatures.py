@@ -79,3 +79,19 @@ class Solution:
                     
         return res
             
+# Monotonic Decreasing Stack
+# Runtime: 906 ms, faster than 34.10% of Python3 online submissions for Daily Temperatures.
+# Memory Usage: 32.1 MB, less than 19.42% of Python3 online submissions for Daily Temperatures.
+class Solution:
+    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
+        res = [0] * len(temperatures)
+        st = [] # [[index, value], [index, value], ...]
+        
+        for i, t in enumerate(temperatures):
+            while st and t > st[-1][1]:
+                idx, val = st.pop()
+                res[idx] = i - idx
+            st.append([i, t])
+                    
+        return res
+            
