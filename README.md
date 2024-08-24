@@ -13,12 +13,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 27)
+## Completed Questions (Total: 28)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 7  | 
 | Medium  | 19  |
-| Hard  | 1  |
+| Hard  | 2  |
 
 ### Array and Hashing (Completed: 9)
 | No.  | Question  | Level  | Url  |
@@ -50,7 +50,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
 | 42 |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
-### Stack (Completed: 6)
+### Stack (Completed: 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 20 |  Valid Parentheses | Easy  | https://leetcode.com/problems/valid-parentheses/ |
@@ -59,6 +59,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 22 |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
 | 739 |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
 | 853 |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
+| 84 |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
