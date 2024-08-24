@@ -39,17 +39,17 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 238 | Product of Array Except Self  | Medium  | https://leetcode.com/problems/product-of-array-except-self/ |
 | 303 | Range Sum Query - Immutable  | Easy  | https://leetcode.com/problems/range-sum-query-immutable/ |
-| 525 | Contiguous Array  | Medium  | https://leetcode.com/problems/contiguous-array/ |
-| 560 | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
+| 525 🌟 | Contiguous Array  | Medium  | https://leetcode.com/problems/contiguous-array/ |
+| 560 🌟 | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
 
 ### Two Pointers (Completed: 5)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 125 |  Valid Palindrome  | Easy  | https://leetcode.com/problems/valid-palindrome/ |
-| 167 |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
+| 167 🌟 |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
-| 42 |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
+| 42 🌟 |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
 ### Stack (Completed: 7)
 | No.  | Question  | Level  | Url  |
@@ -57,23 +57,23 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 20 |  Valid Parentheses | Easy  | https://leetcode.com/problems/valid-parentheses/ |
 | 155 |  Min Stack | Medium  | https://leetcode.com/problems/min-stack/ |
 | 150 |  Evaluate Reverse Polish Notation | Medium  | https://leetcode.com/problems/evaluate-reverse-polish-notation/ |
-| 22 |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
-| 739 |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
-| 853 |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
-| 84 |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
+| 22 🌟 |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
+| 739 🌟 |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
+| 853 🌟 |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
+| 84 🌟 |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
 ### Binary Search (Completed: 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
 | 74 |  Search a 2D Matrix | Medium  | https://leetcode.com/problems/search-a-2d-matrix/ |
-| 875 |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
+| 875 🌟 |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:---:|:--------------|:---------------|:------:|:------------|
 | 3258 | 411 (18th August 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/ |
-| 3259 | 411 (18th August 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/ |
+| 3259 🌟 | 411 (18th August 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/ |
 
 ### LeetCode Biweekly (Completed: 1)
 | No. | Week (Date)  | Question  | Level  | Url  |
