@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 32)
+## Completed Questions (Total: 33)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 9  | 
-| Medium  | 21  |
+| Medium  | 22  |
 | Hard  | 2  |
 
 ### Array and Hashing (Completed: 10)
@@ -62,12 +62,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 853 🌟 |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
 | 84 🌟 |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
-### Binary Search (Completed: 3)
+### Binary Search (Completed: 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
 | 74 |  Search a 2D Matrix | Medium  | https://leetcode.com/problems/search-a-2d-matrix/ |
 | 875 🌟 |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
+| 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
