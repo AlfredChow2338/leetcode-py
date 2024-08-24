@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 28)
+## Completed Questions (Total: 29)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 7  | 
+| Easy  | 8  | 
 | Medium  | 19  |
 | Hard  | 2  |
 
@@ -60,6 +60,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 739 |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
 | 853 |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
 | 84 |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
+
+### Binary Search (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
