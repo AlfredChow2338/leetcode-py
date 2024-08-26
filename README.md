@@ -13,14 +13,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 36)
+## Completed Questions (Total: 37)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 10  | 
+| Easy  | 11  | 
 | Medium  | 23  |
 | Hard  | 3  |
 
-### Array and Hashing (Completed: 10)
+### Array and Hashing (Completed: 11)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
@@ -33,6 +33,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
 | 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659 |
 | 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
+| 485 | Max Consecutive Ones  | Easy  | https://leetcode.com/problems/max-consecutive-ones/ |
 
 ### Prefix Sum (Completed: 4)
 | No.  | Question  | Level  | Url  |
