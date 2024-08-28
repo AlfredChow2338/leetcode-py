@@ -7,17 +7,17 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ### Check Points
 - [x] Complete 3 questions before 2024-08-18 (1-week)
 - [x] Complete 12 questions before 2024-09-07 (1-month)
-- [ ] Complete 39 questions before 2024-11-10 (3-month)
+- [x] Complete 39 questions before 2024-11-10 (3-month)
 - [ ] Complete 60 questions before 2024-12-29 (2024 year-end)
 - [ ] Complete 75 questions before 2025-02-10 (half year)
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 38)
+## Completed Questions (Total: 39)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 11  | 
-| Medium  | 24  |
+| Medium  | 25  |
 | Hard  | 3  |
 
 ### Array and Hashing (Completed: 11)
@@ -73,11 +73,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 981* |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | 4* | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
-### Sliding Window (Completed: 2)
+### Sliding Window (Completed: 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 121 |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 | 1004 |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
+| 3 |  Longest Substring Without Repeating Characters | Medium  | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
