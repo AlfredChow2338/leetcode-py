@@ -73,12 +73,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 981* |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | 4* | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
-### Sliding Window (Completed: 3)
+### Sliding Window (Completed: 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 121 |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 | 1004 |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | 3 |  Longest Substring Without Repeating Characters | Medium  | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
+| 424 |  Longest Repeating Character Replacement | Medium  | https://leetcode.com/problems/longest-repeating-character-replacement/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
