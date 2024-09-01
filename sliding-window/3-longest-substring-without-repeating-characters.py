@@ -14,3 +14,18 @@ class Solution:
             seen[char] = r
 
         return length
+
+# Runtime: 49 ms, faster than 84.17% of Python3 online submissions for Longest Substring Without Repeating Characters.
+# Memory Usage: 16.6 MB, less than 40.75% of Python3 online submissions for Longest Substring Without Repeating Characters.
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        charSet = set()
+        l, res = 0, 0
+        
+        for r in range(len(s)):
+            while s[r] in charSet:
+                charSet.remove(s[l])
+                l += 1
+            charSet.add(s[r])
+            res = max(res, r-l+1)
+        return res
