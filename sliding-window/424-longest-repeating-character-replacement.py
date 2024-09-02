@@ -23,4 +23,21 @@ class Solution:
                 l += 1
         
         return longest_str_len
-    
+
+# Runtime: 134 ms, faster than 18.85% of Python3 online submissions for Longest Repeating Character Replacement.
+# Memory Usage: 16.4 MB, less than 96.62% of Python3 online submissions for Longest Repeating Character Replacement.
+class Solution:
+    def characterReplacement(self, s: str, k: int) -> int:
+        count = {}
+        l, res = 0, 0
+        
+        for r in range(len(s)):
+            count[s[r]] = 1 + count.get(s[r], 0)
+            while (r-l+1) - max(count.values()) > k:
+                count[s[l]] -= 1
+                l += 1
+            res = max(res, r-l+1)
+            
+        return res
+                
+                
