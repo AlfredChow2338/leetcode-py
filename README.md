@@ -20,7 +20,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | Medium  | 25  |
 | Hard  | 3  |
 
-### Array and Hashing (Completed: 12)
+### Array and Hashing (Completed: 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
@@ -35,6 +35,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
 | 485 | Max Consecutive Ones  | Easy  | https://leetcode.com/problems/max-consecutive-ones/ |
 | 13 | Roman to Integer  | Easy  | https://leetcode.com/problems/roman-to-integer/ |
+| 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 
 ### Prefix Sum (Completed: 4)
 | No.  | Question  | Level  | Url  |
@@ -74,14 +75,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 981* |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | 4* | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
-### Sliding Window (Completed: 5)
+### Sliding Window (Completed: 6)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 121 |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 | 1004 |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | 3 |  Longest Substring Without Repeating Characters | Medium  | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 | 424 |  Longest Repeating Character Replacement | Medium  | https://leetcode.com/problems/longest-repeating-character-replacement/ |
-| 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 
 ### LeetCode Weekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
