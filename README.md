@@ -20,6 +20,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | Medium  | 26  |
 | Hard  | 3  |
 
+### String (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 58 | Length of Last Word  | Easy  | https://leetcode.com/problems/length-of-last-word/ |
+
 ### Array and Hashing (Completed: 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
