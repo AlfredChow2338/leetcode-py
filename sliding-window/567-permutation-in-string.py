@@ -32,3 +32,43 @@ class Solution:
             running_hashtable[s2[l]] -= 1
             l += 1
         return False
+
+# Alphabetical Count    
+# Runtime: 65 ms, faster than 53.18% of Python3 online submissions for Permutation in String.
+# Memory Usage: 17 MB, less than 18.30% of Python3 online submissions for Permutation in String.
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+        if len(s1) > len(s2): return False
+        
+        matches, l = 0, 0
+        s1Count = [0] * 26
+        s2Count = [0] * 26
+        
+        for i in range(len(s1)):
+            s1Count[ord(s1[i]) - ord('a')] += 1
+            s2Count[ord(s2[i]) - ord('a')] += 1
+        
+        for i in range(26):
+            matches += (1 if s1Count[i] == s2Count[i] else 0)
+        
+        for r in range(len(s1), len(s2)):
+            print(matches)
+            if matches == 26: return True        
+            
+            index = ord(s2[r]) - ord('a')
+            s2Count[index] += 1
+            if s2Count[index] == s1Count[index]:
+                matches += 1
+            elif s2Count[index] - 1 == s1Count[index]:
+                matches -= 1
+            
+            index = ord(s2[l]) - ord('a')
+            s2Count[index] -= 1
+            if s2Count[index] == s1Count[index]:
+                matches += 1
+            elif s2Count[index] + 1 == s1Count[index]:
+                matches -= 1
+            
+            l += 1
+        
+        return matches == 26
