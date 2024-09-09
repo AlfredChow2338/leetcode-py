@@ -13,14 +13,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 46)
+## Completed Questions (Total: 47)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 15  | 
+| Easy  | 16  | 
 | Medium  | 27  |
 | Hard  | 4  |
 
-### String (Completed: 1)
+### String (Completed: 2)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 58 | Length of Last Word  | Easy  | https://leetcode.com/problems/length-of-last-word/ |
